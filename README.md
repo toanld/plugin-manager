@@ -19,7 +19,7 @@ Plugin Manager Docs: [https://pm.fresns.org](https://pm.fresns.org/)
 To install through Composer, by run the following command:
 
 ```bash
-composer require fresns/plugin-manager
+composer require toanld/plugin-manager
 ```
 
 The package will automatically register a service provider and alias.
